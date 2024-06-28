@@ -1,4 +1,4 @@
-Python code to make a discord moderation bot
+
 
 import discord
 from discord.ext import commands
